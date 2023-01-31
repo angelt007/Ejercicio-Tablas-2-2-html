@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ejercicio 02-2-Tablas en HTML</title>
+    <body>
+      <table>
+        <th>Ejercicio 02-02 Tablas HTML</th>
+        <tr>
+          <th>Titulo</th>
+          <th>Autor</th>
+          <th>Años de publicacion</th>
+          <th>Enlaces de Amazon</th>
+        </tr>
+        <>
+        <td>El Perfume</td>
+        <td>Patrick Suskind</td>
+        <td>1900</td>
+        <td>
+          <a
+            href="https://www.amazon.com.mx/El-perfume-Historia-PATRIC-SUSKIND/dp/8432251143"
+            >El perfume Historia de un asesino</a
+          >
+        </td>
+        <tr>
+          <td>Cien años de Soledad</td>
+          <td>Gabriel Garcia Marquez</td>
+          <td>2015</td>
+          <td>
+            <a
+              href="https://www.amazon.com.mx/Cien-soledad-Gabriel-Garc%C3%ADa-M%C3%A1rquez/dp/6070728793/ref=pd_bxgy_img_sccl_2/134-0350932-4512323?pd_rd_w=xoV2d&content-id=amzn1.sym.a51758d3-051e-42e1-bca4-68e7cad5002a&pf_rd_p=a51758d3-051e-42e1-bca4-68e7cad5002a&pf_rd_r=K1ZGCSZYGGRKPKS8ZC0R&pd_rd_wg=ceU4U&pd_rd_r=ed2035c1-9ad1-4a0b-8294-54f482a5d5bf&pd_rd_i=6070728793&psc=1"
+              >Cien Años de Soledad</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>Don Quijote de la Mancha</td>
+          <td>Miguel de Cervantes</td>
+          <td>2015</td>
+          <td>
+            <a
+              href="https://www.amazon.com.mx/Don-quijote-mancha-Quijote-Mancha/dp/8420412147/ref=d_pd_sbs_sccl_2_4/134-0350932-4512323?pd_rd_w=VEr6i&content-id=amzn1.sym.baf9f7be-4d88-4f36-8464-7c165c539247&pf_rd_p=baf9f7be-4d88-4f36-8464-7c165c539247&pf_rd_r=P40GEACYHRTHFAG64WYX&pd_rd_wg=98HXX&pd_rd_r=d6a55ffe-5ec5-42d5-b3e2-52ef06a051cf&pd_rd_i=8420412147&psc=1"
+              >Don Quijote de la Mancha</a
+            >
+          </td>
+        </tr>
+      </table>
+    </body>
+  </head>
+</html>
